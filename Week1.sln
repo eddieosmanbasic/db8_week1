@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesDemo1", "VariablesDemo1\VariablesDemo1.csproj", "{F63FAD4F-DE0F-43EA-B37A-60C0A750A57A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesDemo1", "VariablesDemo1\VariablesDemo1.csproj", "{F63FAD4F-DE0F-43EA-B37A-60C0A750A57A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDemo1", "StringDemo1\StringDemo1.csproj", "{C2AC33FB-EB46-4FA9-A7E2-EF2BF40CA915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringDemo1", "StringDemo1\StringDemo1.csproj", "{C2AC33FB-EB46-4FA9-A7E2-EF2BF40CA915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesSummary", "VariablesSummary\VariablesSummary.csproj", "{D0D97B0C-DEE7-4A59-AC33-C234941F9378}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesSummary", "VariablesSummary\VariablesSummary.csproj", "{D0D97B0C-DEE7-4A59-AC33-C234941F9378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{77CBBBC3-92C9-42AB-BF4F-2AF11CC15DC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoomCalculator", "RoomCalculator\RoomCalculator.csproj", "{53E85237-806C-4D7F-9EB5-EDAFCD962158}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{D0D97B0C-DEE7-4A59-AC33-C234941F9378}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0D97B0C-DEE7-4A59-AC33-C234941F9378}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0D97B0C-DEE7-4A59-AC33-C234941F9378}.Release|Any CPU.Build.0 = Release|Any CPU
-		{77CBBBC3-92C9-42AB-BF4F-2AF11CC15DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77CBBBC3-92C9-42AB-BF4F-2AF11CC15DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77CBBBC3-92C9-42AB-BF4F-2AF11CC15DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77CBBBC3-92C9-42AB-BF4F-2AF11CC15DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E85237-806C-4D7F-9EB5-EDAFCD962158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E85237-806C-4D7F-9EB5-EDAFCD962158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E85237-806C-4D7F-9EB5-EDAFCD962158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E85237-806C-4D7F-9EB5-EDAFCD962158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
